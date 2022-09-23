@@ -11,3 +11,5 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1
 )
+
+replace github.com/getkin/kin-openapi => github.com/yclybouw/kin-openapi v0.0.0-20220923084742-6684d88ace6a
